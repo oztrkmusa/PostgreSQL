@@ -1,2 +1,2 @@
 # PostgreSQL
- Test automation
+ Test automation  // https://www.patika.dev/tr
